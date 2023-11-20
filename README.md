@@ -1,11 +1,6 @@
 # Programming-with-Python-Task 
 
-# Below I will insert all neccesary git commands to perform Task 1.3 
-# This task requires to create a branch called develop 
-# then clone the repository and develop new features which 
-# need to be commited to the branch develop (from the team in their local machines) 
-
-# The commands would look like this: 
+# Below I will insert all neccesary git commands to perform Task 1.3 This task requires to create a branch called develop then clone the repository and develop new features which need to be commited to the branch develop (from the team in their local machines) The commands would look like this: 
 
 
 
